@@ -1,4 +1,4 @@
-email
-pancard
-isempty
+email,
+pancard,
+isempty,
 after decimal
